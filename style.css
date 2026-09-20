@@ -52,13 +52,13 @@ button, select { font: inherit; color: inherit; }
 .skip-link:focus { top: 1rem; }
 
 /* ---------- Image placeholders (gradient shows if the image file is missing) ---------- */
-.img-nile      { background: url("../images/nile.webp") center/cover no-repeat, linear-gradient(165deg, #f0c98c 0%, #3a8ca3 55%, #0d3b48 100%); }
-.img-giftun    { background: url("../images/hurghada-giftun.webp") center/cover no-repeat, linear-gradient(165deg, #f6ecd2 0%, #43c0c9 50%, #0f7f8c 100%); }
-.img-karnak    { background: url("../images/luxor-karnak.webp") center/cover no-repeat, linear-gradient(165deg, #e7c88f 0%, #b98a4b 50%, #4a3a25 100%); }
-.img-pyramids  { background: url("../images/pyramids.webp") center/cover no-repeat, linear-gradient(165deg, #f3d9a2 0%, #d8a85f 55%, #7a5a2c 100%); }
-.img-felucca   { background: url("../images/cairo-felucca-sunset.webp") center/cover no-repeat, linear-gradient(165deg, #f5a05c 0%, #b8567a 50%, #1e3b57 100%); }
-.img-cruise    { background: url("../images/nile-cruise.webp") center/cover no-repeat, linear-gradient(165deg, #cfe6e8 0%, #2f8a9c 55%, #0b4450 100%); }
-.img-balloon   { background: url("../images/luxor-balloon-sunrise.webp") center/cover no-repeat, linear-gradient(165deg, #f8c47a 0%, #e0806a 50%, #4b3a68 100%); }
+.img-nile      { background: url("images/nile.webp") center/cover no-repeat, linear-gradient(165deg, #f0c98c 0%, #3a8ca3 55%, #0d3b48 100%); }
+.img-giftun    { background: url("images/hurghada-giftun.webp") center/cover no-repeat, linear-gradient(165deg, #f6ecd2 0%, #43c0c9 50%, #0f7f8c 100%); }
+.img-karnak    { background: url("images/luxor-karnak.webp") center/cover no-repeat, linear-gradient(165deg, #e7c88f 0%, #b98a4b 50%, #4a3a25 100%); }
+.img-pyramids  { background: url("images/pyramids.webp") center/cover no-repeat, linear-gradient(165deg, #f3d9a2 0%, #d8a85f 55%, #7a5a2c 100%); }
+.img-felucca   { background: url("images/cairo-felucca-sunset.webp") center/cover no-repeat, linear-gradient(165deg, #f5a05c 0%, #b8567a 50%, #1e3b57 100%); }
+.img-cruise    { background: url("images/nile-cruise.webp") center/cover no-repeat, linear-gradient(165deg, #cfe6e8 0%, #2f8a9c 55%, #0b4450 100%); }
+.img-balloon   { background: url("images/luxor-balloon-sunrise.webp") center/cover no-repeat, linear-gradient(165deg, #f8c47a 0%, #e0806a 50%, #4b3a68 100%); }
 
 /* ---------- Layout ---------- */
 .container { width: min(100% - 2.5rem, var(--container)); margin-inline: auto; }
